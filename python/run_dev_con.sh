@@ -1,0 +1,1 @@
+docker run -d  --name $1 -v  "$PWD"/test_dir:/home/work python_dev:latest sleep infinity

@@ -1,0 +1,1 @@
+docker build -f python_dev.Dockerfile -t python_dev:latest . 
